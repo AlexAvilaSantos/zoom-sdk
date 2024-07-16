@@ -39,7 +39,7 @@
                   "with": "src/environments/environment.prod.ts"
                 }
               ],
-              "baseHref": "/",
+              "baseHref": "/zoom-sdk/",
               "optimization": true,
               "outputHashing": "all",
               "sourceMap": false,
